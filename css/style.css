@@ -1,0 +1,50 @@
+body
+{
+   /* background-color: #9FE2BF;
+     */
+     background-image: url(../images/note-8.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+center
+{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px red;
+}
+
+#addCard
+{
+    background-color: #69BC76 ;
+    border: 2px solid black;
+}
+h5
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+p
+{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+hr
+{
+    border: 1px solid black;
+}
+.noteCard
+{
+    background-color: #69BC76 ;
+    border: 2px solid black;
+}
+.copyright
+{
+	margin-bottom:0;
+	padding-bottom:20px;
+	text-align:center;
+    color: white;
+}
